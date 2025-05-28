@@ -1,1 +1,2 @@
-# Bootcamp-
+# Bootcamp
+Hey! the seprate readme file is located in bootcamp project folder...
